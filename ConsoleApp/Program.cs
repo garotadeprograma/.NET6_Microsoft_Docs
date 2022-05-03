@@ -5,3 +5,5 @@ var currentDate = DateTime.Now;
 
 Console.WriteLine($"{Environment.NewLine}Hello, {name}");
 Console.WriteLine($"{Environment.NewLine}Accessed on {currentDate}");
+
+Console.ReadLine();

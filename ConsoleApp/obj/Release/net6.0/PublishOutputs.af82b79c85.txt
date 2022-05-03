@@ -1,0 +1,5 @@
+C:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.exe
+C:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.dll
+C:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.deps.json
+C:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.runtimeconfig.json
+C:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.pdb
