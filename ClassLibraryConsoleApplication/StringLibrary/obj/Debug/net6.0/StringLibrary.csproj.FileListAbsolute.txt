@@ -1,0 +1,12 @@
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+c:\Projetos_Estudos\C#\Exemplos_SDK\.NET6\ClassLibraryConsoleApplication\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
